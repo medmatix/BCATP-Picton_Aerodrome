@@ -7,7 +7,7 @@ Recreation for X-Plane 11, of Picton, Ontario, (Camp Picton) Aerodrome c. 1945 u
 
 The first task was to analyze and model the WW2 hangers which are at the Picton Aerodrome.
 
-![](D:\git\BCATP-Picton_Aerodrome\Site_Pictures\picton_hangar front.jpg)
+![One of Abandoned Hangers](https://github/medmatix/BCATP-Picton_Aerodrome/blob/main/Site_Pictures/picton_hangar front.jpg)
 
 
 
