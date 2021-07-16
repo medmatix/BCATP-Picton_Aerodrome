@@ -7,8 +7,8 @@ Recreation for X-Plane 11, of Picton, Ontario, (Camp Picton) Aerodrome c. 1945 u
 
 The first task was to analyze and model the WW2 hangers which are at the Picton Aerodrome.
 
-![](D:\git\BCATP-Picton_Aerodrome\Site_Pictures\picton_hangar front.jpg)
+[One of Abandoned Hangers](https://github/medmatix/BCATP-Picton_Aerodrome/Site_Pictures/picton_hangar%20front.jpg)
 
-
+<a title="unknown.   Canada.   Department of National Defence., Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:RCAF_Picton_Aerial_View_1940s.jpg"><img width="512" alt="RCAF Picton Abandoned Hanger" src="https://github/medmatix/BCATP-Picton_Aerodrome/Site_Pictures/picton_hangar%20front.jpg"></a>
 
 Many of these are currently in poor repair having been neglected for decades. It was fortunate that some of the original engineering specs were found. (see in the info folder) as this provided some much needed dimensions for the Double Hangers.
