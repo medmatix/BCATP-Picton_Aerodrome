@@ -18,3 +18,13 @@ I was introduced to modern flight simulation with X-Plane and found scenery deve
 
 ## BCATP Picton
 
+## Other BCATP Projects
+
+## References
+
+1.  Robertson, Ian S.; Camp Picton, Wartime to Peacetime, Count Magazine, Printshop, Bloomfield, 2013.
+2.  Hatch, F. J.; Aerodrome of Democracy: Canada and the British Commonwealth Air Training Plan 1939-1945, Dept of National Defence, Ottawa, 1983.
+3.  Williams, James N.; Rge Plan: Memories of the BCATP, Canada's Wings Inc, Stittsville, 1894.
+4.  Innes, Graham Buchan; British Airfield Buildings of the Second World War,Midland Publ., 1995.
+5.  
+
