@@ -10,7 +10,7 @@ Re-creation for X-Plane 11, of Picton, Ontario, (Camp Picton) Aerodrome c. 1945 
 
 With the approach of WW2 the need for airmen, pilots gunners etc., was dire and prompted the establishment of a network of training bases throughout the commonwealth (including Australia, Canada and New Zealand) This resulted in a massive addition of aircraft facilities in the host countries which persist, for the most part, in some form to today. Though the runways continue to be usable and often regularly used, unfortunately many facilities have fallen in disrepair.
 
-There is a collection of BCATP scenery for older flight simulators available (FSX and FS2004 etc.) these have been slow to be proted to X-Plane (and FS 2021).  This project is to I hope remedy this beginning with the base and aerodrome of my long ago hometoen of Picton, Ontario, Canada. I home more will follow.
+There is a collection of BCATP scenery (Flight Ontario, Al Gay, Grant Wilson) for older flight simulators available (FSX and FS2004 Prepar3d etc.) these have been slow to be promoted to X-Plane (and FS 2021).  This project is to I hope remedy this beginning with the base and aerodrome of my long ago hometoen of Picton, Ontario, Canada. I home more will follow.
 
 ## Development
 
@@ -19,6 +19,8 @@ I was introduced to modern flight simulation with X-Plane and found scenery deve
 ## BCATP Picton
 
 ## Other BCATP Projects
+ 	Flight Ontario, Al Gay, Grant Wilson (ref: bcatp_fs9_01_aug_11.zip)
+  ![bcatp_fs9_01_aug_11.zip](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
 
 ## References
 
