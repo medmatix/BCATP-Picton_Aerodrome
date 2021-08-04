@@ -18,6 +18,18 @@ I was introduced to modern flight simulation with X-Plane and found scenery deve
 
 ## BCATP Picton
 
+The basic layout for Picton, Ontario Canada is part of X-Plane Gateway Airport Scenery packages and has been integrated into the current release itself. The were a number of inaccuracies and use of stock onjects which did not represent well the real layout in Picton. The Addition of homes around the airport is wrong as there is still little development there. The only way to block these is unfortunately to use orthophoto map overlays to cover it over. This involved producing Ortho4XP overlays involvive tiles 1, 2, 3, and 4. This coverage is for all of the county area. If only the Picton environs are descired use 3 and 4.
+
+The starting point then is the period buildings and static aircraft. These were modeled from scratch using Blender and textures edited with either Krita or GIMP. The Hangers are typical BCATP Architecture as documented in Mackenzie, (reference 5 below). The huts were more challenging and based on years of photograhs so that scale has required constant adjustments.
+
+![A double hanger](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/DoubleHangar.png)
+
+![H-hut](https://www.visitpec.ca/wp-content/uploads/2018/05/Loch-Sloy11-300x225.jpg)
+
+![Gunnery Backstop](https://en.wikipedia.org/wiki/File:RCAF_Station_Picton_Gunnery_Backstop.JPG)
+
+Static aircraft represented rather uncommon examples of British aircraft far from the better known Spitfires and Lancasters. As a result these too were modelled from scrathc and these modeling problems are documented [elsewhere.](https://github.com/medmatix/Aircraft3D_Modeling)
+
 ## Other BCATP Projects
  	Flight Ontario, Al Gay, Grant Wilson (ref: bcatp_fs9_01_aug_11.zip)
   ![bcatp_fs9_01_aug_11.zip](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
