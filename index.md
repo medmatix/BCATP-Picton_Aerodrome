@@ -56,7 +56,7 @@ Williams, James N.; Rge Plan: Memories of the BCATP, Canada's Wings Inc, Stittsv
 Innes, Graham Buchan; British Airfield Buildings of the Second World War,Midland Publ., 1995.
 MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155
 
-Acknowledgement: Assistance of Steve Campbell at County Magazine is gratefully appreciated.
+Acknowledgement: Assistance of Steve Campbell at [County Magazine](https://www.countymagazine.ca/) is gratefully appreciated.
 
 
 
