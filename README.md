@@ -34,8 +34,9 @@ Other BCATP Projects
 
 Flight Ontario, Al Gay, Grant Wilson (ref: bcatp_fs9_01_aug_11.zip)
 
-bcatp_fs9_01_aug_11.zip
-References
+![bcatp_fs9_01_aug_11.zip](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
+
+## References
 
     Robertson, Ian S.; Camp Picton, Wartime to Peacetime, Count Magazine, Printshop, Bloomfield, 2013.
     Hatch, F. J.; Aerodrome of Democracy: Canada and the British Commonwealth Air Training Plan 1939-1945, Dept of National Defence, Ottawa, 1983.
