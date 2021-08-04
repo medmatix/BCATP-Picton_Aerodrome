@@ -28,11 +28,23 @@ The starting point then is the period buildings and static aircraft. These were 
 
 ![Gunnery Backstop](https://upload.wikimedia.org/wikipedia/commons/e/ef/RCAF_Station_Picton_Gunnery_Backstop.JPG)
 
+Some Screenshots
+
+![NorthEast facing](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.14.49.png)
+
+![Hangers from 6/21 West](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.16.55.png)
+
+![View of H-huts between the hangers](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.18.16.png)
+
+![Bolingbrokes on the flight-line](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.19.12.png)
+
 Static aircraft represented rather uncommon examples of British aircraft far from the better known Spitfires and Lancasters. As a result these too were modelled from scrathc and these modeling problems are documented [elsewhere.](https://github.com/medmatix/Aircraft3D_Modeling)
 
 Other BCATP Projects
 
 Flight Ontario, Al Gay, Grant Wilson (ref: bcatp_fs9_01_aug_11.zip)
+
+Not sure of this setting, but it may be Branford ON,
 
 ![bcatp_fs9_01_aug_11.zip](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
 
