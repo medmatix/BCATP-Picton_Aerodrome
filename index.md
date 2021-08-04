@@ -18,17 +18,14 @@ I was introduced to modern flight simulation with X-Plane and found scenery deve
 
 ## BCATP Picton
 
-## Other BCATP Projects
- 	Flight Ontario, Al Gay, Grant Wilson (ref: bcatp_fs9_01_aug_11.zip)
-  ![bcatp_fs9_01_aug_11.zip](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
+The basic layout for Picton, Ontario Canada is part of X-Plane Gateway Airport Scenery packages and has been integrated into the current release itself. The were a number of inaccuracies and use of stock onjects which did not represent well the real layout in Picton. The Addition of homes around the airport is wrong as there is still little development there. The only way to block these is unfortunately to use orthophoto map overlays to cover it over. This involved producing Ortho4XP overlays involvive tiles 1, 2, 3, and 4. This coverage is for all of the county area. If only the Picton environs are descired use 3 and 4.
 
-## References
+The starting point then is the period buildings and static aircraft. These were modeled from scratch using Blender and textures edited with either Krita or GIMP. The Hangers are typical BCATP Architecture as documented in Mackenzie, (reference 5 below). The huts were more challenging and based on years of photographs so that scale has required constant adjustments.
 
-1.  Robertson, Ian S.; Camp Picton, Wartime to Peacetime, Count Magazine, Printshop, Bloomfield, 2013.
-2.  Hatch, F. J.; Aerodrome of Democracy: Canada and the British Commonwealth Air Training Plan 1939-1945, Dept of National Defence, Ottawa, 1983.
-3.  Williams, James N.; Rge Plan: Memories of the BCATP, Canada's Wings Inc, Stittsville, 1894.
-4.  Innes, Graham Buchan; British Airfield Buildings of the Second World War,Midland Publ., 1995.
-5.  MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155 
+![A double hanger](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/DoubleHangar.png)
 
-Acknowledgement: Assistance of Steve Campbell at County Magazine is gratefully appreciated.
+![H-hut](https://www.visitpec.ca/wp-content/uploads/2018/05/Loch-Sloy11-300x225.jpg)
 
+![Gunnery Backstop](https://upload.wikimedia.org/wikipedia/commons/e/ef/RCAF_Station_Picton_Gunnery_Backstop.JPG)
+
+Static aircraft represented rather uncommon examples of British aircraft far from the better known Spitfires and Lancasters. As a result these too were modelled from scrathc and these modeling problems are documented [elsewhere.](https://github.com/medmatix/Aircraft3D_Modeling)
