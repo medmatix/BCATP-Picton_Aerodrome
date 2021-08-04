@@ -28,18 +28,35 @@ The starting point then is the period buildings and static aircraft. These were 
 
 ![Gunnery Backstop](https://upload.wikimedia.org/wikipedia/commons/e/ef/RCAF_Station_Picton_Gunnery_Backstop.JPG)
 
+Some Screenshots
+
+![NorthEast facing](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.14.49.png)
+
+![Hangers from 6/21 West](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.16.55.png)
+
+![View of H-huts between the hangers](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.18.16.png)
+
+![Bolingbrokes on the flight-line](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.19.12.png)
+
 Static aircraft represented rather uncommon examples of British aircraft far from the better known Spitfires and Lancasters. As a result these too were modelled from scrathc and these modeling problems are documented [elsewhere.](https://github.com/medmatix/Aircraft3D_Modeling)
 
-## Other BCATP Projects
- 	Flight Ontario, Al Gay, Grant Wilson (ref: bcatp_fs9_01_aug_11.zip)
-  ![bcatp_fs9_01_aug_11.zip](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
+Other BCATP Projects
+
+Flight Ontario, Al Gay, Grant Wilson (ref: bcatp_fs9_01_aug_11.zip)
+
+Not sure of this setting, but it may be Branford ON,
+
+![bcatp_fs9_01_aug_11.zip](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
 
 ## References
 
-1.  Robertson, Ian S.; Camp Picton, Wartime to Peacetime, Count Magazine, Printshop, Bloomfield, 2013.
-2.  Hatch, F. J.; Aerodrome of Democracy: Canada and the British Commonwealth Air Training Plan 1939-1945, Dept of National Defence, Ottawa, 1983.
-3.  Williams, James N.; Rge Plan: Memories of the BCATP, Canada's Wings Inc, Stittsville, 1894.
-4.  Innes, Graham Buchan; British Airfield Buildings of the Second World War,Midland Publ., 1995.
-5.  MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155 
+Robertson, Ian S.; Camp Picton, Wartime to Peacetime, Count Magazine, Printshop, Bloomfield, 2013.
+Hatch, F. J.; Aerodrome of Democracy: Canada and the British Commonwealth Air Training Plan 1939-1945, Dept of National Defence, Ottawa, 1983.
+Williams, James N.; Rge Plan: Memories of the BCATP, Canada's Wings Inc, Stittsville, 1894.
+Innes, Graham Buchan; British Airfield Buildings of the Second World War,Midland Publ., 1995.
+MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155
 
 Acknowledgement: Assistance of Steve Campbell at [County Magazine](https://www.countymagazine.ca/) is gratefully acknowledged.
+
+
+
