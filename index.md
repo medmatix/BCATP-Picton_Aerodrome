@@ -28,4 +28,6 @@ The starting point then is the period buildings and static aircraft. These were 
 
 ![Gunnery Backstop](https://upload.wikimedia.org/wikipedia/commons/e/ef/RCAF_Station_Picton_Gunnery_Backstop.JPG)
 
-Static aircraft represented rather uncommon examples of British aircraft far from the better known Spitfires and Lancasters. As a result these too were modelled from scrathc and these modeling problems are documented [elsewhere.](https://github.com/medmatix/Aircraft3D_Modeling)
+Static aircraft represented rather uncommon examples of British aircraft far from the better known Spitfires and Lancasters. As a result these too were modelled from scratch and these modeling problems are documented [elsewhere.](https://github.com/medmatix/Aircraft3D_Modeling)
+
+![bcatp_fs9_01_aug_11.zip](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
