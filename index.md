@@ -24,7 +24,9 @@ The starting point then is the period buildings and static aircraft. These were 
 
 ![A double hanger](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/DoubleHangar.png)
 
+
 ![H-hut](https://www.visitpec.ca/wp-content/uploads/2018/05/Loch-Sloy11-300x225.jpg)
+
 
 ![Gunnery Backstop](https://upload.wikimedia.org/wikipedia/commons/e/ef/RCAF_Station_Picton_Gunnery_Backstop.JPG)
 
@@ -34,8 +36,8 @@ Other BCATP Projects
 
 Flight Ontario, Al Gay, Grant Wilson (ref: bcatp_fs9_01_aug_11.zip)
 
-I believe this view is of Swift Current MN>
-![Swift Current]()
+I believe this view is of Brantford ON,
+![Brantford ON](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
 
 References
 
