@@ -22,7 +22,7 @@ The basic layout for Picton, Ontario Canada is part of X-Plane Gateway Airport S
 
 The starting point then is the period buildings and static aircraft. These were modeled from scratch using Blender and textures edited with either Krita or GIMP. The Hangers are typical BCATP Architecture as documented in Mackenzie, (reference 5 below). The huts were more challenging and based on years of photographs so that scale has required constant adjustments.
 
-<a title="unknown.   Canada.   Department of National Defence., Public domain, via Wikimedia Commons" href="https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/DoubleHangar.png", alt="A double hanger"><img width="512" alt="A double hanger" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/RCAF_Picton_Aerial_View_1940s.jpg/512px-RCAF_Picton_Aerial_View_1940s.jpg"></a>
+<a title="unknown.   Canada., Public domain, via Wikimedia Commons" href="https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/DoubleHangar.png", alt="A double hanger"><img width="512" alt="A double hanger" src="https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/DoubleHangar.png"></a>
 
 
 ![H-hut](https://www.visitpec.ca/wp-content/uploads/2018/05/Loch-Sloy11-300x225.jpg)
