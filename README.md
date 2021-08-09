@@ -34,9 +34,13 @@ Some Screenshots
 
 ![Hangers from 6/21 West](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.16.55.png)
 
-![View of H-huts between the hangers](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.18.16.png)
+![View of H-huts and Anson parked between the hangers](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/gh-pages/AnsonBetweenHangars.png)
 
 ![Bolingbrokes on the flight-line](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.19.12.png)
+
+![Ansons on the flight-line](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/gh-pages/AnsonFlight-line.png)
+
+![Planes in Hangar 1](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/gh-pages/Hangar1wAnson%26Bolingbroke.png)
 
 Static aircraft represented rather uncommon examples of British aircraft far from the better known Spitfires and Lancasters. As a result these too were modelled from scrathc and these modeling problems are documented [elsewhere.](https://github.com/medmatix/Aircraft3D_Modeling)
 
