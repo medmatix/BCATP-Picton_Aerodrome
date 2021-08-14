@@ -56,6 +56,7 @@ Hatch, F. J.; Aerodrome of Democracy: Canada and the British Commonwealth Air Tr
 Williams, James N.; Rge Plan: Memories of the BCATP, Canada's Wings Inc, Stittsville, 1894.
 Innes, Graham Buchan; British Airfield Buildings of the Second World War,Midland Publ., 1995.
 MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155
+Skaarup, Harold A. [numerous books]   [www.SilverHawkAuthor.com](https://www.SilverHawkAuthor.com), 2021 August 14 10:51 AM
 
 Acknowledgement: Assistance of Steve Campbell at [County Magazine](https://www.countymagazine.ca/) is gratefully appreciated.
 
