@@ -41,7 +41,11 @@
       <children/>
       <hierarchy name="selection"/>
       <selection>
+<<<<<<< Updated upstream
         <sel id="216"/>
+=======
+        <sel id="5"/>
+>>>>>>> Stashed changes
       </selection>
     </object>
     <object class="WED_KeyObjects" id="3" parent_id="1">
@@ -66,6 +70,39 @@
     </object>
     <object class="WED_Group" id="4" parent_id="1">
       <children>
+<<<<<<< Updated upstream
+=======
+        <child id="1809"/>
+        <child id="2111"/>
+        <child id="2177"/>
+        <child id="2106"/>
+        <child id="5"/>
+      </children>
+      <hierarchy name="world" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="387" parent_id="385">
+      <children/>
+      <hierarchy name="e2" locked="0" hidden="0"/>
+      <point latitude="43.991462911" longitude="-77.141709000"/>
+    </object>
+    <object class="WED_Airport" id="5" parent_id="4">
+      <children>
+        <child id="2322"/>
+        <child id="2321"/>
+        <child id="2320"/>
+        <child id="2319"/>
+        <child id="2318"/>
+        <child id="2317"/>
+        <child id="2316"/>
+        <child id="2315"/>
+        <child id="2314"/>
+        <child id="2313"/>
+        <child id="2312"/>
+        <child id="2311"/>
+        <child id="2310"/>
+        <child id="2309"/>
+        <child id="2308"/>
+>>>>>>> Stashed changes
         <child id="2307"/>
         <child id="2306"/>
         <child id="2305"/>
@@ -73,15 +110,21 @@
         <child id="2303"/>
         <child id="2298"/>
         <child id="2297"/>
+<<<<<<< Updated upstream
         <child id="2111"/>
         <child id="2106"/>
+=======
+>>>>>>> Stashed changes
         <child id="2096"/>
         <child id="2090"/>
         <child id="2053"/>
         <child id="2019"/>
         <child id="1960"/>
         <child id="1949"/>
+<<<<<<< Updated upstream
         <child id="2177"/>
+=======
+>>>>>>> Stashed changes
         <child id="2146"/>
         <child id="1901"/>
         <child id="1817"/>
@@ -89,6 +132,7 @@
         <child id="1812"/>
         <child id="1811"/>
         <child id="1810"/>
+<<<<<<< Updated upstream
         <child id="1809"/>
         <child id="1806"/>
         <child id="2300"/>
@@ -104,6 +148,11 @@
     </object>
     <object class="WED_Airport" id="5" parent_id="4">
       <children>
+=======
+        <child id="1806"/>
+        <child id="2300"/>
+        <child id="1796"/>
+>>>>>>> Stashed changes
         <child id="1713"/>
         <child id="1679"/>
         <child id="1663"/>
@@ -272,7 +321,11 @@
       <hierarchy name="Point" locked="0" hidden="0"/>
       <point latitude="43.983327147" longitude="-77.132619002"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_LinePlacement" id="2090" parent_id="4">
+=======
+    <object class="WED_LinePlacement" id="2090" parent_id="5">
+>>>>>>> Stashed changes
       <children>
         <child id="2091"/>
         <child id="2092"/>
@@ -366,7 +419,11 @@
       <hierarchy name="Point" locked="0" hidden="0"/>
       <point latitude="43.986339962" longitude="-77.139754193"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_LinePlacement" id="2096" parent_id="4">
+=======
+    <object class="WED_LinePlacement" id="2096" parent_id="5">
+>>>>>>> Stashed changes
       <children>
         <child id="2097"/>
         <child id="2098"/>
@@ -952,7 +1009,11 @@
       <point latitude="43.991427400" longitude="-77.143661350" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="1811" parent_id="4">
+=======
+    <object class="WED_ObjPlacement" id="1811" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="KMCFredbarrack8grey.obj" locked="0" hidden="0"/>
       <point latitude="43.990819176" longitude="-77.128688110" heading="240.22"/>
@@ -1155,7 +1216,11 @@
       <point latitude="43.987023810" longitude="-77.144573570" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="2297" parent_id="4">
+=======
+    <object class="WED_ObjPlacement" id="2297" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="CampBuilding.obj" locked="0" hidden="0"/>
       <point latitude="43.992542331" longitude="-77.143484252" heading="308.03"/>
@@ -2630,7 +2695,11 @@
       <point latitude="43.992833770" longitude="-77.142206140" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="2304" parent_id="4">
+=======
+    <object class="WED_ObjPlacement" id="2304" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
       <point latitude="43.991313117" longitude="-77.141955307" heading="218.02"/>
@@ -3251,7 +3320,11 @@
       <point latitude="43.991944040" longitude="-77.137871560" split="0" ctrl_latitude_lo="0.000013020" ctrl_longitude_lo="-0.000063350" ctrl_latitude_hi="-0.000013020" ctrl_longitude_hi="0.000063350"/>
       <markings/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="2305" parent_id="4">
+=======
+    <object class="WED_ObjPlacement" id="2305" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
       <point latitude="43.991178843" longitude="-77.142102541" heading="217.31"/>
@@ -3427,14 +3500,25 @@
     </object>
     <object class="WED_Group" id="392" parent_id="5">
       <children>
+<<<<<<< Updated upstream
         <child id="391"/>
         <child id="495"/>
         <child id="500"/>
+=======
+        <child id="621"/>
+        <child id="391"/>
+        <child id="495"/>
+        <child id="500"/>
+        <child id="2323"/>
+>>>>>>> Stashed changes
         <child id="515"/>
         <child id="537"/>
         <child id="586"/>
         <child id="608"/>
+<<<<<<< Updated upstream
         <child id="621"/>
+=======
+>>>>>>> Stashed changes
       </children>
       <hierarchy name="Draped Polygons" locked="0" hidden="0"/>
     </object>
@@ -4161,7 +4245,11 @@
       <hierarchy name="Node 9" locked="0" hidden="0"/>
       <point latitude="43.992532004" longitude="-77.142802928" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_PolygonPlacement" id="2019" parent_id="4">
+=======
+    <object class="WED_PolygonPlacement" id="2019" parent_id="5">
+>>>>>>> Stashed changes
       <children>
         <child id="2018"/>
       </children>
@@ -4351,6 +4439,15 @@
       <hierarchy name="Node 28" locked="0" hidden="0"/>
       <point latitude="43.991638421" longitude="-77.144305133" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+<<<<<<< Updated upstream
+=======
+    <object class="WED_ObjPlacement" id="2309" parent_id="5">
+      <children/>
+      <hierarchy name="CampBuilding.obj" locked="0" hidden="0"/>
+      <point latitude="43.988903700" longitude="-77.145635195" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="CampBuilding.obj" show_level="1 Default"/>
+    </object>
+>>>>>>> Stashed changes
     <object class="WED_SimpleBezierBoundaryNode" id="590" parent_id="587">
       <children/>
       <hierarchy name="Point" locked="0" hidden="0"/>
@@ -5007,7 +5104,11 @@
       <hierarchy name="Fence.fac" locked="0" hidden="0"/>
       <facade_placement height="8" resource="lib/airport/Common_Elements/Fence_Facades/Fence.fac" pick_walls="1" show_level="1 Default"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="2303" parent_id="4">
+=======
+    <object class="WED_ObjPlacement" id="2303" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
       <point latitude="43.991446794" longitude="-77.141801851" heading="218.18"/>
@@ -5346,6 +5447,15 @@
       <hierarchy name="Node 4" locked="0" hidden="0"/>
       <point latitude="43.995552289" longitude="-77.143405530" split="1" ctrl_latitude_lo="-0.000007022" ctrl_longitude_lo="-0.000073201" ctrl_latitude_hi="0.000007022" ctrl_longitude_hi="0.000149527"/>
     </object>
+<<<<<<< Updated upstream
+=======
+    <object class="WED_ObjPlacement" id="2311" parent_id="5">
+      <children/>
+      <hierarchy name="APAPI30.obj" locked="0" hidden="0"/>
+      <point latitude="43.987654330" longitude="-77.142513055" heading="38.34"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="AirportObjects/APAPI30.obj" show_level="1 Default"/>
+    </object>
+>>>>>>> Stashed changes
     <object class="WED_SimpleBezierBoundaryNode" id="1718" parent_id="1712">
       <children/>
       <hierarchy name="Node 5" locked="0" hidden="0"/>
@@ -5435,7 +5545,11 @@
       <point latitude="43.994079233" longitude="-77.143720444" heading="308.73"/>
       <obj_placement custom_msl="0" msl="0.0" resource="opensceneryx/objects/buildings/airport/hangars/nissen/2.obj" show_level="1 Default"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="1796" parent_id="4">
+=======
+    <object class="WED_ObjPlacement" id="1796" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="office.obj" locked="0" hidden="0"/>
       <point latitude="43.992996606" longitude="-77.143288590" heading="310.55"/>
@@ -5459,7 +5573,11 @@
       <point latitude="43.994617604" longitude="-77.143796852" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <facade_node wall_type="Wall 1"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="1806" parent_id="4">
+=======
+    <object class="WED_ObjPlacement" id="1806" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="KahuluiTradingOffice.obj" locked="0" hidden="0"/>
       <point latitude="43.994659788" longitude="-77.144278134" heading="354.68"/>
@@ -5467,29 +5585,49 @@
     </object>
     <object class="WED_ObjPlacement" id="1809" parent_id="4">
       <children/>
+<<<<<<< Updated upstream
       <hierarchy name="2.obj" locked="0" hidden="0"/>
       <point latitude="43.995176443" longitude="-77.145268713" heading="41.11"/>
       <obj_placement custom_msl="0" msl="0.0" resource="opensceneryx/objects/buildings/commercial/offices/stone/2.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="1810" parent_id="4">
+=======
+      <hierarchy name="AdministrationBuilding.obj" locked="0" hidden="0"/>
+      <point latitude="43.995176443" longitude="-77.145268713" heading="41.11"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="opensceneryx/objects/buildings/commercial/offices/stone/2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="1810" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="KMCFredbarrack8grey.obj" locked="0" hidden="0"/>
       <point latitude="43.990940633" longitude="-77.130143966" heading="239.41"/>
       <obj_placement custom_msl="0" msl="0.0" resource="NAPS_library/NAPS_BUILDINGS/NAPS_KMCF_Barracks2/KMCFredbarrack8grey.obj" show_level="1 Default"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="1812" parent_id="4">
+=======
+    <object class="WED_ObjPlacement" id="1812" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="KMCFredbarrack9grey.obj" locked="0" hidden="0"/>
       <point latitude="43.991015485" longitude="-77.131602761" heading="328.59"/>
       <obj_placement custom_msl="0" msl="0.0" resource="NAPS_library/NAPS_BUILDINGS/NAPS_KMCF_Barracks2/KMCFredbarrack9grey.obj" show_level="1 Default"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="1813" parent_id="4">
+=======
+    <object class="WED_ObjPlacement" id="1813" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="KMCFredbarrack6grey.obj" locked="0" hidden="0"/>
       <point latitude="43.991096036" longitude="-77.129663382" heading="230.41"/>
       <obj_placement custom_msl="0" msl="0.0" resource="NAPS_library/NAPS_BUILDINGS/NAPS_KMCF_Barracks2/KMCFredbarrack6grey.obj" show_level="1 Default"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ExclusionZone" id="1817" parent_id="4">
+=======
+    <object class="WED_ExclusionZone" id="1817" parent_id="5">
+>>>>>>> Stashed changes
       <children>
         <child id="1818"/>
         <child id="1819"/>
@@ -5545,7 +5683,11 @@
       </children>
       <hierarchy name="Polygon 4 Outer Ring" locked="0" hidden="0"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_PolygonPlacement" id="1901" parent_id="4">
+=======
+    <object class="WED_PolygonPlacement" id="1901" parent_id="5">
+>>>>>>> Stashed changes
       <children>
         <child id="1900"/>
       </children>
@@ -5691,7 +5833,11 @@
       </children>
       <hierarchy name="Polygon 7 Outer Ring" locked="0" hidden="0"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_PolygonPlacement" id="1949" parent_id="4">
+=======
+    <object class="WED_PolygonPlacement" id="1949" parent_id="5">
+>>>>>>> Stashed changes
       <children>
         <child id="1948"/>
       </children>
@@ -5810,7 +5956,11 @@
       </children>
       <hierarchy name="Polygon 8 Outer Ring" locked="0" hidden="0"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_PolygonPlacement" id="1960" parent_id="4">
+=======
+    <object class="WED_PolygonPlacement" id="1960" parent_id="5">
+>>>>>>> Stashed changes
       <children>
         <child id="1959"/>
       </children>
@@ -5857,7 +6007,11 @@
       <hierarchy name="Node 8" locked="0" hidden="0"/>
       <point latitude="43.992705470" longitude="-77.142628438" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="2298" parent_id="4">
+=======
+    <object class="WED_ObjPlacement" id="2298" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="CampBuilding.obj" locked="0" hidden="0"/>
       <point latitude="43.992893323" longitude="-77.143106398" heading="308.16"/>
@@ -6136,7 +6290,11 @@
       </children>
       <hierarchy name="Polygon 10 Outer Ring" locked="0" hidden="0"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_PolygonPlacement" id="2053" parent_id="4">
+=======
+    <object class="WED_PolygonPlacement" id="2053" parent_id="5">
+>>>>>>> Stashed changes
       <children>
         <child id="2052"/>
       </children>
@@ -6337,7 +6495,11 @@
       </children>
       <hierarchy name="Polygon 18 Outer Ring" locked="0" hidden="0"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_PolygonPlacement" id="2146" parent_id="4">
+=======
+    <object class="WED_PolygonPlacement" id="2146" parent_id="5">
+>>>>>>> Stashed changes
       <children>
         <child id="2145"/>
       </children>
@@ -6574,24 +6736,125 @@
       <hierarchy name="Node 53" locked="0" hidden="0"/>
       <point latitude="44.002147814" longitude="-77.138263487"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="2300" parent_id="4">
+=======
+    <object class="WED_ObjPlacement" id="2300" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="CampBuilding.obj" locked="0" hidden="0"/>
       <point latitude="43.992724797" longitude="-77.143760385" heading="307.65"/>
       <obj_placement custom_msl="0" msl="0.0" resource="CampBuilding.obj" show_level="1 Default"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="2306" parent_id="4">
+=======
+    <object class="WED_ObjPlacement" id="2306" parent_id="5">
+>>>>>>> Stashed changes
       <children/>
       <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
       <point latitude="43.991048298" longitude="-77.142246042" heading="216.93"/>
       <obj_placement custom_msl="0" msl="0.0" resource="StaticBolingbroke2.obj" show_level="1 Default"/>
     </object>
+<<<<<<< Updated upstream
     <object class="WED_ObjPlacement" id="2307" parent_id="4">
       <children/>
       <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
       <point latitude="43.989928800" longitude="-77.144685904" heading="311.99"/>
       <obj_placement custom_msl="0" msl="0.0" resource="StaticBolingbroke2.obj" show_level="1 Default"/>
     </object>
+=======
+    <object class="WED_ObjPlacement" id="2307" parent_id="5">
+      <children/>
+      <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
+      <point latitude="43.989946637" longitude="-77.144592935" heading="131.32"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="StaticBolingbroke2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2308" parent_id="5">
+      <children/>
+      <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
+      <point latitude="43.991268913" longitude="-77.143235033" heading="64.77"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="StaticBolingbroke2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2310" parent_id="5">
+      <children/>
+      <hierarchy name="APAPI30.obj" locked="0" hidden="0"/>
+      <point latitude="43.988104724" longitude="-77.143504705" heading="41.37"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="AirportObjects/APAPI30.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2312" parent_id="5">
+      <children/>
+      <hierarchy name="prop_a.obj" locked="0" hidden="0"/>
+      <point latitude="43.988969954" longitude="-77.146131455" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/aircraft/military/prop_a.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2313" parent_id="5">
+      <children/>
+      <hierarchy name="avroanson.obj" locked="0" hidden="0"/>
+      <point latitude="43.990267589" longitude="-77.145005769" heading="71.71"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="avroanson.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2314" parent_id="5">
+      <children/>
+      <hierarchy name="avroanson.obj" locked="0" hidden="0"/>
+      <point latitude="43.990035868" longitude="-77.145178822" heading="131.91"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="avroanson.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2315" parent_id="5">
+      <children/>
+      <hierarchy name="avroanson.obj" locked="0" hidden="0"/>
+      <point latitude="43.993079370" longitude="-77.141806651" heading="113.44"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="avroanson.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2316" parent_id="5">
+      <children/>
+      <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
+      <point latitude="43.992804418" longitude="-77.141289870" heading="129.35"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="StaticBolingbroke2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2317" parent_id="5">
+      <children/>
+      <hierarchy name="avroanson.obj" locked="0" hidden="0"/>
+      <point latitude="43.990373308" longitude="-77.143089024" heading="220.78"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="avroanson.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2318" parent_id="5">
+      <children/>
+      <hierarchy name="avroanson.obj" locked="0" hidden="0"/>
+      <point latitude="43.990213940" longitude="-77.143265539" heading="221.41"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="avroanson.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2319" parent_id="5">
+      <children/>
+      <hierarchy name="avroanson.obj" locked="0" hidden="0"/>
+      <point latitude="43.990057061" longitude="-77.143445515" heading="219.69"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="avroanson.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2320" parent_id="5">
+      <children/>
+      <hierarchy name="avroanson.obj" locked="0" hidden="0"/>
+      <point latitude="43.989892712" longitude="-77.143625491" heading="220.87"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="avroanson.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2321" parent_id="5">
+      <children/>
+      <hierarchy name="avroanson.obj" locked="0" hidden="0"/>
+      <point latitude="43.989745794" longitude="-77.143798545" heading="221.40"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="avroanson.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2322" parent_id="5">
+      <children/>
+      <hierarchy name="avroanson.obj" locked="0" hidden="0"/>
+      <point latitude="43.989596385" longitude="-77.143968138" heading="221.23"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="avroanson.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2323" parent_id="392">
+      <children/>
+      <hierarchy name="avroanson.obj" locked="0" hidden="0"/>
+      <point latitude="43.990447044" longitude="-77.144797622" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="avroanson.obj" show_level="1 Default"/>
+    </object>
+>>>>>>> Stashed changes
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed">
@@ -6604,17 +6867,29 @@
     </pref>
     <pref name="doc/export_target" value="4"/>
     <pref name="doc/xml_compatibility" value="107"/>
+<<<<<<< Updated upstream
     <pref name="map/east" value="-77.141127"/>
     <pref name="map/navaid_map_vis" value="1"/>
     <pref name="map/north" value="43.991842"/>
+=======
+    <pref name="map/east" value="-77.143281"/>
+    <pref name="map/navaid_map_vis" value="1"/>
+    <pref name="map/north" value="43.993412"/>
+>>>>>>> Stashed changes
     <pref name="map/obj_density" value="1"/>
     <pref name="map/pavement_alpha" value="4"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
+<<<<<<< Updated upstream
     <pref name="map/south" value="43.989724"/>
     <pref name="map/vertices_vis" value="1"/>
     <pref name="map/west" value="-77.143815"/>
+=======
+    <pref name="map/south" value="43.987922"/>
+    <pref name="map/vertices_vis" value="1"/>
+    <pref name="map/west" value="-77.150244"/>
+>>>>>>> Stashed changes
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
@@ -6637,7 +6912,11 @@
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="35"/>
     <pref name="map_Lines_Resource" value="NAPS_library/NAPS_LINS/NAPS_Road_Lins/LargeAsphaltRoad.lin"/>
+<<<<<<< Updated upstream
     <pref name="map_Objects_Object" value="StaticBolingbroke2.obj"/>
+=======
+    <pref name="map_Objects_Object" value="avroanson.obj"/>
+>>>>>>> Stashed changes
     <pref name="map_Objects_Show with" value="750"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
     <pref name="map_Polygons_Resource" value="lib/airport/pavement/asphalt_2L.pol"/>
@@ -6690,8 +6969,13 @@
     <pref name="window/height" value="997"/>
     <pref name="window/main_split" value="425"/>
     <pref name="window/main_split2" value="1382"/>
+<<<<<<< Updated upstream
     <pref name="window/prev_split" value="327"/>
     <pref name="window/prop_split" value="444"/>
+=======
+    <pref name="window/prev_split" value="367"/>
+    <pref name="window/prop_split" value="484"/>
+>>>>>>> Stashed changes
     <pref name="window/width" value="1920"/>
     <pref name="window/x_loc" value="-8"/>
     <pref name="window/y_loc" value="-8"/>
