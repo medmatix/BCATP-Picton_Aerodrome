@@ -60,6 +60,7 @@ Not sure of this setting, but it may be Branford ON,
 5. MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155
 6. Skaarup, Harold A. [numerous books]   [www.SilverHawkAuthor.com](https://www.SilverHawkAuthor.com), 2021 August 14 10:51 AM
     particularly, _Canadian Warplanes_, (self-published) Iuniverse Inc Bloomington IN (Nov. 16 2009) 978-1440167584
+7. O'Malley, David in "For the Record [The Photographs and Journal of AC2 Arthur Norris]" at http://www.vintagewings.ca/VintageNews/Stories/tabid/116/articleType/ArticleView/articleId/611/For-the-Record.aspx Accessed August 16 2021 2:12 PM.
 
 Acknowledgement: Assistance of Steve Campbell at [County Magazine](https://www.countymagazine.ca/) is gratefully acknowledged.
 
