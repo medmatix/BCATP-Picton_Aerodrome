@@ -35,25 +35,25 @@
       <point latitude="43.991544660" longitude="-77.143662170" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings/>
     </object>
+    <object class="WED_SimpleBoundaryNode" id="2222" parent_id="2176">
+      <children/>
+      <hierarchy name="Node 45" locked="0" hidden="0"/>
+      <point latitude="44.002423920" longitude="-77.135960637"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1903" parent_id="1900">
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="43.994798486" longitude="-77.144041882" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
-    </object>
-    <object class="WED_SimpleBezierBoundaryNode" id="2158" parent_id="2145">
-      <children/>
-      <hierarchy name="Node 12" locked="0" hidden="0"/>
-      <point latitude="43.991937316" longitude="-77.144821083" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBoundaryNode" id="397" parent_id="393">
       <children/>
       <hierarchy name="Point" locked="0" hidden="0"/>
       <point latitude="43.988188021" longitude="-77.145584673"/>
     </object>
-    <object class="WED_SimpleBoundaryNode" id="2222" parent_id="2176">
+    <object class="WED_SimpleBezierBoundaryNode" id="2158" parent_id="2145">
       <children/>
-      <hierarchy name="Node 45" locked="0" hidden="0"/>
-      <point latitude="44.002423920" longitude="-77.135960637"/>
+      <hierarchy name="Node 12" locked="0" hidden="0"/>
+      <point latitude="43.991937316" longitude="-77.144821083" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_FacadeNode" id="1572" parent_id="1559">
       <children/>
@@ -310,7 +310,6 @@
         <child id="1604"/>
         <child id="1605"/>
         <child id="1606"/>
-        <child id="1607"/>
       </children>
       <hierarchy name="Objects" locked="0" hidden="0"/>
     </object>
@@ -450,21 +449,22 @@
       <hierarchy name="Node 6" locked="0" hidden="0"/>
       <point latitude="43.995439191" longitude="-77.142841761" split="1" ctrl_latitude_lo="0.000017554" ctrl_longitude_lo="-0.000073201" ctrl_latitude_hi="-0.000051742" ctrl_longitude_hi="0.000090401"/>
     </object>
-    <object class="WED_SimpleBoundaryNode" id="2197" parent_id="2176">
-      <children/>
-      <hierarchy name="Node 20" locked="0" hidden="0"/>
-      <point latitude="43.994671321" longitude="-77.145785395"/>
-    </object>
     <object class="WED_AirportNode" id="173" parent_id="159">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
       <point latitude="43.989942760" longitude="-77.145477500" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings/>
     </object>
-    <object class="WED_SimpleBezierBoundaryNode" id="1984" parent_id="1959">
+    <object class="WED_SimpleBoundaryNode" id="2197" parent_id="2176">
       <children/>
-      <hierarchy name="Node 24" locked="0" hidden="0"/>
-      <point latitude="43.991097478" longitude="-77.144452648" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <hierarchy name="Node 20" locked="0" hidden="0"/>
+      <point latitude="43.994671321" longitude="-77.145785395"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2318" parent_id="2437">
+      <children/>
+      <hierarchy name="avroanson.obj" locked="0" hidden="0"/>
+      <point latitude="43.990213940" longitude="-77.143265539" heading="221.41"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="avroanson.obj" show_level="1 Default"/>
     </object>
     <object class="WED_AirportNode" id="294" parent_id="290">
       <children/>
@@ -472,11 +472,10 @@
       <point latitude="43.985972070" longitude="-77.134410570" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings/>
     </object>
-    <object class="WED_ObjPlacement" id="2318" parent_id="2437">
+    <object class="WED_SimpleBezierBoundaryNode" id="1984" parent_id="1959">
       <children/>
-      <hierarchy name="avroanson.obj" locked="0" hidden="0"/>
-      <point latitude="43.990213940" longitude="-77.143265539" heading="221.41"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="avroanson.obj" show_level="1 Default"/>
+      <hierarchy name="Node 24" locked="0" hidden="0"/>
+      <point latitude="43.991097478" longitude="-77.144452648" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_AirportNode" id="226" parent_id="217">
       <children/>
@@ -497,7 +496,7 @@
     <object class="WED_ObjPlacement" id="2305" parent_id="2437">
       <children/>
       <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
-      <point latitude="43.991178843" longitude="-77.142102541" heading="217.31"/>
+      <point latitude="43.991112759" longitude="-77.142176024" heading="218.57"/>
       <obj_placement custom_msl="0" msl="0.0" resource="StaticBolingbroke2.obj" show_level="1 Default"/>
     </object>
     <object class="WED_AirportNode" id="369" parent_id="366">
@@ -620,7 +619,7 @@
     <object class="WED_ObjPlacement" id="2303" parent_id="2437">
       <children/>
       <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
-      <point latitude="43.991446794" longitude="-77.141801851" heading="218.18"/>
+      <point latitude="43.991382031" longitude="-77.141866149" heading="220.60"/>
       <obj_placement custom_msl="0" msl="0.0" resource="StaticBolingbroke2.obj" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2039" parent_id="2018">
@@ -1245,7 +1244,7 @@
     <object class="WED_ObjPlacement" id="2308" parent_id="2437">
       <children/>
       <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
-      <point latitude="43.991268913" longitude="-77.143235033" heading="64.77"/>
+      <point latitude="43.991241510" longitude="-77.143000151" heading="64.77"/>
       <obj_placement custom_msl="0" msl="0.0" resource="StaticBolingbroke2.obj" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2125" parent_id="2111">
@@ -1799,7 +1798,7 @@
     <object class="WED_ObjPlacement" id="2316" parent_id="2437">
       <children/>
       <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
-      <point latitude="43.992804418" longitude="-77.141289870" heading="129.35"/>
+      <point latitude="43.992803680" longitude="-77.141287818" heading="129.35"/>
       <obj_placement custom_msl="0" msl="0.0" resource="StaticBolingbroke2.obj" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBoundaryNode" id="2187" parent_id="2176">
@@ -1817,12 +1816,6 @@
       <children/>
       <hierarchy name="Point" locked="0" hidden="0"/>
       <point latitude="43.993783090" longitude="-77.132406684"/>
-    </object>
-    <object class="WED_ObjPlacement" id="1607" parent_id="1047">
-      <children/>
-      <hierarchy name="prop_a.obj" locked="0" hidden="0"/>
-      <point latitude="43.991952271" longitude="-77.142568985" heading="128.42"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/aircraft/general_aviation/prop_a.obj" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2550" parent_id="2541">
       <children/>
@@ -1850,12 +1843,6 @@
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
       <point latitude="43.987432360" longitude="-77.144046410" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings/>
-    </object>
-    <object class="WED_ObjPlacement" id="2312" parent_id="2437">
-      <children/>
-      <hierarchy name="prop_a.obj" locked="0" hidden="0"/>
-      <point latitude="43.988969954" longitude="-77.146131455" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/aircraft/military/prop_a.obj" show_level="1 Default"/>
     </object>
     <object class="WED_AirportNode" id="250" parent_id="217">
       <children/>
@@ -2844,7 +2831,7 @@
     <object class="WED_ObjPlacement" id="2304" parent_id="2437">
       <children/>
       <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
-      <point latitude="43.991313117" longitude="-77.141955307" heading="218.02"/>
+      <point latitude="43.991245711" longitude="-77.142019605" heading="220.36"/>
       <obj_placement custom_msl="0" msl="0.0" resource="StaticBolingbroke2.obj" show_level="1 Default"/>
     </object>
     <object class="WED_AirportNode" id="247" parent_id="217">
@@ -2904,7 +2891,7 @@
     <object class="WED_ObjPlacement" id="2306" parent_id="2437">
       <children/>
       <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
-      <point latitude="43.991048298" longitude="-77.142246042" heading="216.93"/>
+      <point latitude="43.990983535" longitude="-77.142323199" heading="219.32"/>
       <obj_placement custom_msl="0" msl="0.0" resource="StaticBolingbroke2.obj" show_level="1 Default"/>
     </object>
     <object class="WED_AirportNode" id="161" parent_id="159">
@@ -3207,8 +3194,8 @@
         <child id="2315"/>
         <child id="2314"/>
         <child id="2313"/>
-        <child id="2312"/>
         <child id="2308"/>
+        <child id="2600"/>
         <child id="2307"/>
         <child id="2306"/>
         <child id="2305"/>
@@ -3559,7 +3546,7 @@
     <object class="WED_ObjPlacement" id="2441" parent_id="4">
       <children/>
       <hierarchy name="DilliTower.obj" locked="0" hidden="0"/>
-      <point latitude="43.990859805" longitude="-77.143105813" heading="311.10"/>
+      <point latitude="43.990954522" longitude="-77.142990622" heading="311.10"/>
       <obj_placement custom_msl="0" msl="0.0" resource="DilliTower.obj" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBoundaryNode" id="417" parent_id="415">
@@ -3657,6 +3644,14 @@
     </object>
     <object class="WED_Group" id="4" parent_id="1">
       <children>
+        <child id="2599"/>
+        <child id="2598"/>
+        <child id="2596"/>
+        <child id="2595"/>
+        <child id="2594"/>
+        <child id="2593"/>
+        <child id="2592"/>
+        <child id="2591"/>
         <child id="2583"/>
         <child id="2565"/>
         <child id="2564"/>
@@ -5210,6 +5205,12 @@
       <hierarchy name="Point" locked="0" hidden="0"/>
       <point latitude="43.992629554" longitude="-77.139994144" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_ObjPlacement" id="2594" parent_id="4">
+      <children/>
+      <hierarchy name="LysanderYellow.obj" locked="0" hidden="0"/>
+      <point latitude="43.988933863" longitude="-77.146137171" heading="268.15"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="LysanderYellow.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_FacadeNode" id="1228" parent_id="0">
       <children/>
       <hierarchy name="Point" locked="0" hidden="0"/>
@@ -5863,6 +5864,12 @@
       <hierarchy name="Node 15" locked="0" hidden="0"/>
       <point latitude="43.992370188" longitude="-77.143432597" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_ObjPlacement" id="2592" parent_id="4">
+      <children/>
+      <hierarchy name="LysanderYellow.obj" locked="0" hidden="0"/>
+      <point latitude="43.992215975" longitude="-77.140855824" heading="218.11"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="LysanderYellow.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_PolygonPlacement" id="2019" parent_id="5">
       <children>
         <child id="2018"/>
@@ -6217,7 +6224,7 @@
     <object class="WED_RampPosition" id="374" parent_id="10">
       <children/>
       <hierarchy name="New Ramp Start 1" locked="0" hidden="0"/>
-      <point latitude="43.992478080" longitude="-77.140714530" heading="46.00"/>
+      <point latitude="43.992652525" longitude="-77.140672156" heading="68.32"/>
       <ramp_start type="Tie-Down" traffic="8" width="A" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_FacadeNode" id="747" parent_id="0">
@@ -6309,7 +6316,7 @@
       <children/>
       <hierarchy name="selection"/>
       <selection>
-        <sel id="2583"/>
+        <sel id="2307"/>
       </selection>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1997" parent_id="1959">
@@ -6841,6 +6848,12 @@
       <hierarchy name="Node 8" locked="0" hidden="0"/>
       <point latitude="43.994204700" longitude="-77.142273266" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_ObjPlacement" id="2593" parent_id="4">
+      <children/>
+      <hierarchy name="LysanderYellow.obj" locked="0" hidden="0"/>
+      <point latitude="43.992339619" longitude="-77.140705906" heading="220.78"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="LysanderYellow.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_AirportNode" id="257" parent_id="255">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
@@ -6861,25 +6874,25 @@
     <object class="WED_ObjPlacement" id="2453" parent_id="4">
       <children/>
       <hierarchy name="FaireyBattle.obj" locked="0" hidden="0"/>
-      <point latitude="43.991749578" longitude="-77.141478293" heading="0.0"/>
+      <point latitude="43.991572195" longitude="-77.141607214" heading="39.15"/>
       <obj_placement custom_msl="0" msl="0.0" resource="FaireyBattle.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="2454" parent_id="4">
       <children/>
       <hierarchy name="FaireyBattle.obj" locked="0" hidden="0"/>
-      <point latitude="43.991867775" longitude="-77.141336412" heading="0.0"/>
+      <point latitude="43.991704281" longitude="-77.141454217" heading="40.33"/>
       <obj_placement custom_msl="0" msl="0.0" resource="FaireyBattle.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="2455" parent_id="4">
       <children/>
       <hierarchy name="FaireyBattle.obj" locked="0" hidden="0"/>
-      <point latitude="43.991953736" longitude="-77.141201998" heading="0.0"/>
+      <point latitude="43.991832781" longitude="-77.141311319" heading="40.46"/>
       <obj_placement custom_msl="0" msl="0.0" resource="FaireyBattle.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="2456" parent_id="4">
       <children/>
       <hierarchy name="FaireyBattle.obj" locked="0" hidden="0"/>
-      <point latitude="43.992055815" longitude="-77.141067585" heading="0.0"/>
+      <point latitude="43.991958447" longitude="-77.141166086" heading="37.92"/>
       <obj_placement custom_msl="0" msl="0.0" resource="FaireyBattle.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="2458" parent_id="392">
@@ -7497,6 +7510,42 @@
       <point latitude="43.992631408" longitude="-77.143862569" heading="308.25"/>
       <obj_placement custom_msl="0" msl="0.0" resource="2StoryCampBuilding.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="2591" parent_id="4">
+      <children/>
+      <hierarchy name="LysanderYellow.obj" locked="0" hidden="0"/>
+      <point latitude="43.992087070" longitude="-77.141002086" heading="217.63"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="LysanderYellow.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2595" parent_id="4">
+      <children/>
+      <hierarchy name="LysanderYellow.obj" locked="0" hidden="0"/>
+      <point latitude="43.989787934" longitude="-77.145925571" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="LysanderYellow.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2596" parent_id="4">
+      <children/>
+      <hierarchy name="LysanderYellow.obj" locked="0" hidden="0"/>
+      <point latitude="43.989873188" longitude="-77.146185840" heading="46.04"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="LysanderYellow.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2598" parent_id="4">
+      <children/>
+      <hierarchy name="Anson105.obj" locked="0" hidden="0"/>
+      <point latitude="43.992240835" longitude="-77.142716111" heading="130.15"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="Anson105.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2599" parent_id="4">
+      <children/>
+      <hierarchy name="Anson105.obj" locked="0" hidden="0"/>
+      <point latitude="43.992132583" longitude="-77.142537257" heading="129.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="Anson105.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2600" parent_id="2437">
+      <children/>
+      <hierarchy name="StaticBolingbroke2.obj" locked="0" hidden="0"/>
+      <point latitude="43.990853262" longitude="-77.142472439" heading="221.85"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="StaticBolingbroke2.obj" show_level="1 Default"/>
+    </object>
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed">
@@ -7510,17 +7559,17 @@
     </pref>
     <pref name="doc/export_target" value="4"/>
     <pref name="doc/xml_compatibility" value="204"/>
-    <pref name="map/east" value="-77.142698"/>
+    <pref name="map/east" value="-77.138769"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="43.993065"/>
+    <pref name="map/north" value="43.994718"/>
     <pref name="map/obj_density" value="1"/>
     <pref name="map/pavement_alpha" value="4"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="43.991684"/>
+    <pref name="map/south" value="43.986083"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="-77.144631"/>
+    <pref name="map/west" value="-77.149690"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Autogen_Autogen Height" value="32.000001"/>
@@ -7544,8 +7593,8 @@
     <pref name="map_Hole_Markings" value=""/>
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="35"/>
-    <pref name="map_Lines_Resource" value="Dirt_Road_III.lin"/>
-    <pref name="map_Objects_Object" value="2StoryCampBuilding.obj"/>
+    <pref name="map_Lines_Resource" value="Dirt_Road_V.lin"/>
+    <pref name="map_Objects_Object" value="StaticBolingbroke2.obj"/>
     <pref name="map_Objects_Show with" value="746"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
     <pref name="map_Polygons_Resource" value="lib/airport/pavement/asphalt_3D.pol"/>
@@ -7612,9 +7661,9 @@
     <pref name="map_preview_window/y_loc" value="182"/>
     <pref name="window/height" value="957"/>
     <pref name="window/main_split" value="425"/>
-    <pref name="window/main_split2" value="1432"/>
-    <pref name="window/prev_split" value="747"/>
-    <pref name="window/prop_split" value="783"/>
+    <pref name="window/main_split2" value="1343"/>
+    <pref name="window/prev_split" value="483"/>
+    <pref name="window/prop_split" value="881"/>
     <pref name="window/width" value="1672"/>
     <pref name="window/x_loc" value="4"/>
     <pref name="window/y_loc" value="29"/>
