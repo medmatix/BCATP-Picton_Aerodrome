@@ -10,15 +10,15 @@ Re-creation for X-Plane 11, of Picton, Ontario, (Camp Picton) Aerodrome c. 1945 
 
 With the approach of WW2 the need for airmen, pilots gunners etc., was dire and prompted the establishment of a network of training bases throughout the commonwealth (including Australia, Canada and New Zealand) This resulted in a massive addition of aircraft facilities in the host countries which persist, for the most part, in some form to today. Though the runways continue to be usable and often regularly used, unfortunately many facilities have fallen in disrepair.
 
-There is a collection of BCATP scenery (Flight Ontario, Al Gay, Grant Wilson) for older flight simulators available (FSX and FS2004 Prepar3d etc.) these have been slow to be promoted to X-Plane (and FS 2021).  This project is to I hope remedy this beginning with the base and aerodrome of my long ago hometoen of Picton, Ontario, Canada. I home more will follow.
+There is a collection of BCATP scenery (Flight Ontario, Al Gay, Grant Wilson) for older flight simulators available (FSX and FS2004 Prepar3d etc.) these have been slow to be promoted to X-Plane (and FS 2021).  This project is to I hope remedy this beginning with the base and aerodrome of my long ago hometown of Picton, Ontario, Canada. I hope more will follow.
 
 ## Development
 
-I was introduced to modern flight simulation with X-Plane and found scenery development quite approachable first modeling with AC3D and more recently open source Blender. Layout/overlay development has in my hands been with World Editor (WED) and a myriad of open object libraries. BCATP and Wartime architecture is sparse necessitating my learning Blender to develop H-Huts, barracks, hangers (Single, Double and Double-Double) in antique textures. I am learning still, and the more one uses the rich modeling environment which is Blender, the more I realize one will alway be in learner mode. The objects are freely available (MIT license) and I hope they represent a quality others will want to use.
+I was introduced to modern flight simulation with X-Plane and found scenery development quite approachable, first modeling with AC3D and more recently open source Blender. Layout/overlay development has in my hands been with World Editor (WED) and a myriad of open object libraries. BCATP and Wartime architecture is sparse necessitating my learning Blender to develop H-Huts, barracks, hangers (Single, Double and Double-Double) in antique textures. I am learning still, and the more one uses the rich modeling environment which is Blender, the more I realize one will always be in learner mode. The objects are freely available (MIT license) and I hope they represent a quality others will want to use.
 
 ## BCATP Picton
 
-The basic layout for Picton, Ontario Canada is part of X-Plane Gateway Airport Scenery packages and has been integrated into the current release itself. The were a number of inaccuracies and use of stock onjects which did not represent well the real layout in Picton. The Addition of homes around the airport is wrong as there is still little development there. The only way to block these is unfortunately to use orthophoto map overlays to cover it over. This involved producing Ortho4XP overlays involvive tiles 1, 2, 3, and 4. This coverage is for all of the county area. If only the Picton environs are descired use 3 and 4.
+The basic layout for Picton, Ontario Canada is part of X-Plane Gateway Airport Scenery packages and has been integrated into the current release itself. The were a number of inaccuracies and necessary use of stock objects for the gatway inclusion, which did not represent well the real layout in Picton. The Addition of homes around the airport is wrong as there is still little development there. The only way to block these I've found is unfortunately to use orthophoto map overlays to cover it over. This involved producing Ortho4XP overlays involving tiles 1, 2, 3, and 4. This coverage is for all of The County area. If only the Picton environs are desired use 3 and 4.
 
 The starting point then is the period buildings and static aircraft. These were modeled from scratch using Blender and textures edited with either Krita or GIMP. The Hangers are typical BCATP Architecture as documented in Mackenzie, (reference 5 below). The huts were more challenging and based on years of photographs so that scale has required constant adjustments.
 
@@ -47,6 +47,9 @@ Flight Ontario, Al Gay, Grant Wilson (ref: bcatp_fs9_01_aug_11.zip)
 Not sure of this setting, but it may be Branford ON,
 
 ![bcatp_fs9_01_aug_11.zip](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
+
+Jacques B(ref:Xplane.org)
+
 
 ## References
 
