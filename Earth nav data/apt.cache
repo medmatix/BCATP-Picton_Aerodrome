@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<apt sam="false" revision="6" sam_path="C:\Program Files (x86)\Steam\steamapps\common\X-Plane 11\Custom Scenery\BCATP-Picton_Aerodrome\sam.xml">
+	<plugin_config sam="2.2.9" />
+	<airport name="BCATP-Picton" icao="CX07" iata="" elevation="463" latitude="43.989166666999999" longitude="-77.139166666999998">
+		<startup_location latitude="43.989618589999999" longitude="-77.145645970000004" heading="178.75" name="New Ramp Start 2" airline_code="" type="tie_down" width_code="a" operation_type="none" is_legacy="false">
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="43.992478079999998" longitude="-77.140714529999997" heading="46" name="New Ramp Start 1" airline_code="" type="tie_down" width_code="a" operation_type="none" is_legacy="false">
+			<airplane_type type="props" />
+		</startup_location>
+	</airport>
+</apt>

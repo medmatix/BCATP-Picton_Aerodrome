@@ -1,0 +1,38 @@
+0:00:48.415 I/ACF: Loading airplane number 0 with Aircraft/Beaufighter MkIF/BeaufighterMkIF.acf
+0:00:49.435 E/ACF: Error with aircraft: Aircraft/Beaufighter MkIF/BeaufighterMkIF.acf (/jenkins/design-triggered/source_code/engine/veh/read/veh_planes_read.cpp:2251)
+0:00:49.435 E/ACF: Unable to open weapon file 'Gun030M2.wpn' - it may be corrupted.
+0:00:49.435 E/ACF: Error with aircraft: Aircraft/Beaufighter MkIF/BeaufighterMkIF.acf (/jenkins/design-triggered/source_code/engine/veh/read/veh_planes_read.cpp:2251)
+0:00:49.435 E/ACF: Unable to open weapon file 'Gun030M2.wpn' - it may be corrupted.
+0:00:49.435 E/ACF: Error with aircraft: Aircraft/Beaufighter MkIF/BeaufighterMkIF.acf (/jenkins/design-triggered/source_code/engine/veh/read/veh_planes_read.cpp:2251)
+0:00:49.435 E/ACF: Unable to open weapon file 'Gun030M2.wpn' - it may be corrupted.
+0:00:49.435 E/ACF: Error with aircraft: Aircraft/Beaufighter MkIF/BeaufighterMkIF.acf (/jenkins/design-triggered/source_code/engine/veh/read/veh_planes_read.cpp:2251)
+0:00:49.435 E/ACF: Unable to open weapon file 'Gun030M2.wpn' - it may be corrupted.
+0:00:49.435 E/ACF: Error with aircraft: Aircraft/Beaufighter MkIF/BeaufighterMkIF.acf (/jenkins/design-triggered/source_code/engine/veh/read/veh_planes_read.cpp:2251)
+0:00:49.435 E/ACF: Unable to open weapon file 'Gun030M2.wpn' - it may be corrupted.
+0:00:49.435 E/ACF: Error with aircraft: Aircraft/Beaufighter MkIF/BeaufighterMkIF.acf (/jenkins/design-triggered/source_code/engine/veh/read/veh_planes_read.cpp:2251)
+0:00:49.435 E/ACF: Unable to open weapon file 'Gun030M2.wpn' - it may be corrupted.
+0:00:49.435 E/ACF: Error with aircraft: Aircraft/Beaufighter MkIF/BeaufighterMkIF.acf (/jenkins/design-triggered/source_code/engine/veh/read/veh_planes_read.cpp:2251)
+0:00:49.435 E/ACF: Unable to open weapon file 'Hispano 20mm cannon.wpn' - it may be corrupted.
+0:00:49.435 E/ACF: Error with aircraft: Aircraft/Beaufighter MkIF/BeaufighterMkIF.acf (/jenkins/design-triggered/source_code/engine/veh/read/veh_planes_read.cpp:2251)
+0:00:49.435 E/ACF: Unable to open weapon file 'Hispano 20mm cannon.wpn' - it may be corrupted.
+0:00:49.435 E/ACF: Error with aircraft: Aircraft/Beaufighter MkIF/BeaufighterMkIF.acf (/jenkins/design-triggered/source_code/engine/veh/read/veh_planes_read.cpp:2251)
+0:00:49.435 E/ACF: Unable to open weapon file 'Hispano 20mm cannon.wpn' - it may be corrupted.
+0:00:49.435 E/ACF: Error with aircraft: Aircraft/Beaufighter MkIF/BeaufighterMkIF.acf (/jenkins/design-triggered/source_code/engine/veh/read/veh_planes_read.cpp:2251)
+0:00:49.435 E/ACF: Unable to open weapon file 'Hispano 20mm cannon.wpn' - it may be corrupted.
+0:00:49.435 I/FLT: Init dat_p0 type:loc_tak apt:CX07 rwy:16
+
+opensceneryx/objects/buildings/airport/sheds/metal/1.obj
+NAPS_library/NAPS_TOWERS/NAPS_PHDH_Tower/DilliTower.obj
+opensceneryx/objects/buildings/recreational/sports_fields/1.obj
+opensceneryx/objects/buildings/commercial/offices/stone/2.obj
+AirportObjects/APAPI30.obj
+NAPS_library/NAPS_BUILDINGS/NAPS_KMCF_Barracks2/KMCFredbarrack6grey.obj
+NAPS_library/NAPS_BUILDINGS/NAPS_KMCF_Barracks2/KMCFredbarrack9grey.obj
+
+NAPS_library/NAPS_BUILDINGS/NAPS_KMCF_Barracks2/KMCFredbarrack8grey.obj
+handyobjects/buildings/security_hut_darker_windows_II.obj
+opensceneryx/objects/buildings/airport/hangars/nissen/2.obj
+handyobjects/pathsandroads/dirt_road_VI.lin
+
+Unable to open weapon file 'Gun030M2.wpn' - it may be corrupted.
+Unable to open weapon file 'Hispano 20mm cannon.wpn' - it may be corrupted.
