@@ -53,14 +53,14 @@ Jacques B(ref:Xplane.org)
 
 ## References
 
-Robertson, Ian S.; Camp Picton, Wartime to Peacetime, Count Magazine, Printshop, Bloomfield, 2013.
-Hatch, F. J.; Aerodrome of Democracy: Canada and the British Commonwealth Air Training Plan 1939-1945, Dept of National Defence, Ottawa, 1983.
-Williams, James N.; Rge Plan: Memories of the BCATP, Canada's Wings Inc, Stittsville, 1894.
-Innes, Graham Buchan; British Airfield Buildings of the Second World War,Midland Publ., 1995.
-MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155
-Skaarup, Harold A. [numerous books]   [www.SilverHawkAuthor.com](https://www.SilverHawkAuthor.com), 2021 August 14 10:51 AM
+1. Robertson, Ian S.; Camp Picton, Wartime to Peacetime, County Magazine and Printshop, Bloomfield, 2013.
+2. Hatch, F. J.; Aerodrome of Democracy: Canada and the British Commonwealth Air Training Plan 1939-1945, Dept of National Defence, Ottawa, 1983.
+3. Williams, James N.; The Plan: Memories of the BCATP, Canada's Wings Inc, Stittsville, 1984.
+4. Innes, Graham Buchan; British Airfield Buildings of the Second World War,Midland Publ., 1995.
+5. MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944, in Engineering History and Heritage, **162** August 2009, Issue EH3, Pages 147–155
+6. Skaarup, Harold A. [numerous books]   [www.SilverHawkAuthor.com](https://www.SilverHawkAuthor.com), 2021 August 14 10:51 AM
 
-Support my work via [Paypal](https://paypal.me/medmatix?country.x=US&locale.x=en_US) or [Patreon](https://www.patreon.com/medmatix)
+**Support my work via** [Paypal](https://paypal.me/medmatix?country.x=US&locale.x=en_US) or [Patreon](https://www.patreon.com/medmatix)
 
 Acknowledgement: Assistance of Steve Campbell at [County Magazine](https://www.countymagazine.ca/) is gratefully acknowledged. 
 
